@@ -1,0 +1,10 @@
+name = "CustomPatches";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "CustomPatches";
+tooltipOwned = "";
+overview = "uwu";
+author = "mis3ry13";
+overviewPicture = "";
